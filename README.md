@@ -16,9 +16,9 @@ https://sunilbasera.github.io/portfolio.github.io/
 > html sections, div, header
 
 ### requirements
-*** user ***
+***user***
 > web-browser
-*** developer ***
+***developer***
 > vs studio
 > computer
 > web browser
